@@ -4,7 +4,7 @@ I am working as Diploma in Business & Data Analytics Intern at Gamaka AI Solutio
 Few tech that I enjoy working in are Python,Plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Analytics.
 
 - 👨‍💻 Currently working, learning and growing  my skillset in coding, Machine Learning, Tableau, Power BI.
-- 💼 Open for job in Analytics, Machine Learning, and python.
+- 💼 Open for job in Analytics, Machine Learning, Tableau, Power BI & python.
 - 🧑 Know more about me at [My Resume] (google link)
 
 ### My Recent Projects
